@@ -16,11 +16,11 @@ npm install @maximeheusicom/holiday
 
 <h3>In the terminal, write:</h3>
 
-holiday (country) (year)
+npx @heusic0m/holiday (country) (year)
 
 example:
 
-holiday Belgium 1985 (=> your code)
+npx @heusic0m/holiday Belgium 1985 (=> your code)
 
 1985-01-01 New Year's Day (=> answer by the terminal)  
 1985-04-07 Easter Sunday  
