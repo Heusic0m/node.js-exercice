@@ -1,0 +1,26 @@
+{
+  "name": "@heusic0m/holiday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heusic0m/node.js-exercice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heusic0m/node.js-exercice/issues"
+  },
+  "homepage": "https://github.com/Heusic0m/node.js-exercice#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "country-list": "^2.2.0"
+  },
+  "bin": {
+    "holiday": "./index.js"
+  }
+}
